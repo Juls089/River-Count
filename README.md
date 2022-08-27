@@ -37,8 +37,8 @@ https://.nl
 - [ ] Option Menu
 
 - - [ ] Select Language
-* - - [ ] English
-* - - [ ] Spanish
+- - [ ] English
+- - [ ] Spanish
 
 - - [ ] Save Language 
 - - [ ] Dark Mode 
