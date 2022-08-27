@@ -32,6 +32,19 @@ https://.nl
 
 - [x] FULLY WORKING 
 
+# Upcoming 
+
+- [ ] Option Menu
+
+- - [ ] Select Language
+- - - [ ] English
+- - - [ ] Spanish
+
+- - [ ] Save Language 
+- - [ ] Dark Mode 
+- - [ ] Custom Colors
+
+
 # Download 
 
 Beta 1.0 Release
