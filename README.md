@@ -38,5 +38,4 @@ Beta 1.0 Release
 
 # GitHub repositories
 
-https://github.com/lcgamboa/USBIP-Virtual-USB-Device
-https://github.com/raknahs2/Python_USB_HID
+https://github.com/GoogleChrome/chrome-extensions-samples
