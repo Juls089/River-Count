@@ -1,0 +1,25 @@
+{
+  "extName": {
+    "message": "Wortzählerseite"
+  },
+
+  "extDescription": {
+    "message": "Diese Erweiterung zählt Wörter von der aktuellen Seite"
+  },
+
+  "defaultTitle": {
+    "message": "Klicken Sie hier, um die Wortzahl anzuzeigen"
+  },
+
+  "wordsFound": {
+    "message": "Wörter gefunden"
+  },
+
+  "word": {
+    "message": "Word"
+  },
+
+  "qty": {
+    "message": "Menge"
+  }
+}
